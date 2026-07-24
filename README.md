@@ -14,7 +14,7 @@ An AI-powered web application that analyzes resumes against job descriptions, ca
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 Most job seekers never know why their resume gets filtered out by ATS software. This tool bridges that gap by:
 
@@ -26,7 +26,7 @@ Most job seekers never know why their resume gets filtered out by ATS software. 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Feature | Description |
 |---|---|
@@ -41,7 +41,7 @@ Most job seekers never know why their resume gets filtered out by ATS software. 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -55,7 +55,7 @@ Most job seekers never know why their resume gets filtered out by ATS software. 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-resume-tracker/
@@ -68,7 +68,7 @@ ai-resume-tracker/
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -111,7 +111,7 @@ ai-resume-tracker/
 
 ---
 
-## 📖 Usage Guide
+##  Usage Guide
 
 1. **Paste the Job Description** — Copy the full job posting text into the text area on the left
 2. **Upload Your Resume** — Drag-and-drop or browse for a `.pdf` or `.docx` file on the right
@@ -128,7 +128,7 @@ ai-resume-tracker/
 
 ---
 
-## 🔧 How It Works (Architecture)
+##  How It Works (Architecture)
 
 ```
 ┌──────────────┐     ┌──────────────────┐     ┌─────────────────┐
@@ -161,7 +161,7 @@ ai-resume-tracker/
 
 ---
 
-## 🧪 Example
+##  Example
 
 **Job Description excerpt:**
 > "Looking for a Python Developer with experience in Django, REST APIs, PostgreSQL, AWS, Docker, and CI/CD pipelines."
@@ -176,7 +176,7 @@ ai-resume-tracker/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how:
 
@@ -188,21 +188,21 @@ Contributions are welcome! Here's how:
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Hassan Mahadkar **
-- 📧 hassanmahadker1@gmail.com
-- 🐙 GitHub: https://github.com/hassannn434/
+- hassanmahadker1@gmail.com
+-  GitHub: https://github.com/hassannn434/
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Streamlit](https://streamlit.io/) — Fast, beautiful web apps for data science
 - [scikit-learn](https://scikit-learn.org/) — ML library for TF-IDF and similarity
