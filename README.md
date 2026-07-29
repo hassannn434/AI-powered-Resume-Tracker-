@@ -1,13 +1,5 @@
 # AI-Powered Resume Tracker & ATS Optimizer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Streamlit-1.32+-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
-  <img src="https://img.shields.io/badge/scikit--learn-1.4+-orange?style=for-the-badge&logo=scikit-learn" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/spaCy-3.7+-green?style=for-the-badge&logo=spacy" alt="spaCy">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
-</p>
-
 An AI-powered web application that analyzes resumes against job descriptions, calculates ATS (Applicant Tracking System) match scores using **TF-IDF + Cosine Similarity**, extracts matched and missing keywords, and provides actionable recommendations to improve resume ranking.
 
 > Built by **Hassan Mahadkar** — hassanmahadker1@gmail.com
