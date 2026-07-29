@@ -102,6 +102,12 @@ ai-resume-tracker/
 6. **Open your browser** — Navigate to `http://localhost:8501`
 
 ---
+##Screenshot
+<img width="1919" height="910" alt="Screenshot 2026-07-29 202138" src="https://github.com/user-attachments/assets/0ca17447-a814-4d0a-a47b-78b4e4ed90a5" />
+
+<img width="1719" height="915" alt="ChatGPT Image Jul 29, 2026, 08_26_04 PM" src="https://github.com/user-attachments/assets/de519c89-900b-44e7-b0fd-8838bd8ce104" />
+
+
 
 ##  Usage Guide
 
